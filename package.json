@@ -1,9 +1,9 @@
 {
-  "name": "gh-pages-ui-template",
+  "name": "noteknack",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://gh-pages-ui-template.tonyghouse.com/",
+  "homepage": "https://noteknack.tonyghouse.com/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
